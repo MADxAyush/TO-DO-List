@@ -29,7 +29,7 @@ https://time-to-do-list.netlify.app/
 Clone the repository:
 
 ```bash
-git@github.com:MADxAyush/TO-DO-List.git
+https://github.com/MADxAyush/TO-DO-List.git
 ```
 
 Open the project folder:
