@@ -22,7 +22,7 @@ A simple and responsive To-Do List application built using HTML, CSS, and JavaSc
 
 Add your Netlify deployment link here:
 
-https://your-site-name.netlify.app
+https://time-to-do-list.netlify.app/
 
 ## Installation
 
